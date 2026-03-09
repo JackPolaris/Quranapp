@@ -1,8 +1,8 @@
 # 隐私政策 / Privacy Policy
 
-最后更新：2025年7月
+最后更新：2026年3月
 
-Last Updated: July 2025
+Last Updated: March 2026
 
 ---
 
@@ -29,6 +29,7 @@ Last Updated: July 2025
 - **页面收藏** — 您收藏的古兰经页面
 - **应用设置** — 您的偏好设置（版式、朗读者选择、播放模式等）
 - **下载的音频** — 您主动下载的朗诵音频文件
+- **播放缓存** — 播放时自动缓存的音频文件（7天后自动清理，系统存储空间不足时也会自动清理）
 
 所有数据仅存储在您的设备本地，卸载应用后将被删除。
 
@@ -36,10 +37,10 @@ Last Updated: July 2025
 
 本应用在以下场景访问网络：
 
-- **音频流播放** — 从公开的古兰经朗诵 CDN 服务器获取音频数据（mp3quran.net、audio-cdn.tarteel.ai、audio.qurancdn.com）
+- **音频流播放** — 从古兰经朗诵 CDN 服务器获取音频数据
 - **音频下载** — 当您选择离线下载朗诵音频时
 
-这些网络请求仅传输公开的古兰经朗诵音频内容，不包含任何用户个人信息。部分音频 CDN 使用 HTTP 连接，传输的内容均为公开的古兰经朗诵录音，不涉及隐私数据。
+这些网络请求仅传输公开的古兰经朗诵音频内容，不包含任何用户个人信息。音频通过 CDN 加速分发并使用 URL 鉴权保护，传输的内容均为公开的古兰经朗诵录音，不涉及隐私数据。
 
 ### 第三方服务
 
@@ -49,6 +50,10 @@ Last Updated: July 2025
 
 本应用不收集任何用户数据，包括儿童数据。本应用适合所有年龄段用户使用。
 
+### 免责声明
+
+本应用提供的古兰经经文数据基于 Tanzil.net 开源项目，翻译文本来自各译者的公开出版译本。本应用仅为学习与诵读工具，不代替专业宗教指导。经文内容和翻译的准确性以原始出版物为准。
+
 ### 隐私政策变更
 
 如本隐私政策有任何变更，我们将在应用更新中通知您。
@@ -57,7 +62,7 @@ Last Updated: July 2025
 
 如您对本隐私政策有任何疑问，请通过以下方式联系我们：
 
-GitHub Issues: https://github.com/quran-reader/quran-app/issues
+邮箱: jackpolaris@foxmail.com
 
 ---
 
@@ -84,6 +89,7 @@ This App stores the following data locally on your device. This data is never up
 - **Page bookmarks** — Pages you have bookmarked
 - **App settings** — Your preferences (layout, reciter selection, playback mode, etc.)
 - **Downloaded audio** — Recitation audio files you have manually downloaded
+- **Playback cache** — Audio files cached during playback (automatically cleared after 7 days or when the system needs storage space)
 
 All data is stored locally on your device and will be deleted when the app is uninstalled.
 
@@ -91,10 +97,10 @@ All data is stored locally on your device and will be deleted when the app is un
 
 This App accesses the network in the following scenarios:
 
-- **Audio streaming** — Fetching audio data from public Quran recitation CDN servers (mp3quran.net, audio-cdn.tarteel.ai, audio.qurancdn.com)
+- **Audio streaming** — Fetching audio data from Quran recitation CDN servers
 - **Audio download** — When you choose to download recitation audio for offline use
 
-These network requests only transmit publicly available Quran recitation audio content and do not include any personal user information.
+These network requests only transmit publicly available Quran recitation audio content and do not include any personal user information. Audio is distributed via CDN with URL authentication for content protection. All transmitted content is publicly available Quran recitation recordings and does not involve privacy-sensitive data.
 
 ### Third-Party Services
 
@@ -104,6 +110,10 @@ This App does not integrate any third-party analytics, advertising, or social me
 
 This App does not collect any user data, including data from children. This App is suitable for users of all ages.
 
+### Disclaimer
+
+The Quran text data provided by this App is based on the Tanzil.net open source project. Translations are sourced from publicly available published translations by their respective translators. This App serves solely as a learning and recitation tool and is not a substitute for professional religious guidance. The accuracy of Quranic text and translations is subject to the original publications.
+
 ### Changes to This Policy
 
 If there are any changes to this privacy policy, we will notify you through app updates.
@@ -112,4 +122,4 @@ If there are any changes to this privacy policy, we will notify you through app 
 
 If you have any questions about this privacy policy, please contact us at:
 
-GitHub Issues: https://github.com/quran-reader/quran-app/issues
+Email: jackpolaris@foxmail.com

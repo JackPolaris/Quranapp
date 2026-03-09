@@ -62,7 +62,7 @@ Last Updated: March 2026
 
 如您对本隐私政策有任何疑问，请通过以下方式联系我们：
 
-邮箱: jackpolaris@foxmail.com
+邮箱: JackPolaris@qq.com
 
 ---
 
@@ -122,4 +122,4 @@ If there are any changes to this privacy policy, we will notify you through app 
 
 If you have any questions about this privacy policy, please contact us at:
 
-Email: jackpolaris@foxmail.com
+Email: JackPolaris@qq.com
